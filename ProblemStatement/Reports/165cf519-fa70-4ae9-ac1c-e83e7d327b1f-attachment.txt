@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_CRUD.py:53 Start:Delete the user Test
+[32mINFO    [0m root:test_CRUD.py:58 Passed:Delete the user Test

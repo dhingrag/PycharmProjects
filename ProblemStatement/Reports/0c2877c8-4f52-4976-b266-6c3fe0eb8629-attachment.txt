@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_CRUD_dependency.py:26 Start:Create a new user Test
+[32mINFO    [0m root:test_CRUD_dependency.py:36 Passed:Create a new user Test

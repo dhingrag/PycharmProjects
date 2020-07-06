@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_CRUD_dependency.py:55 Start:Delete the user Test
+[32mINFO    [0m root:test_CRUD_dependency.py:60 Passed:Delete the user Test

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_CRUD_depends.py:32 Start:Update the user Test
+[32mINFO    [0m root:test_CRUD_depends.py:40 Passed:Update the user Test

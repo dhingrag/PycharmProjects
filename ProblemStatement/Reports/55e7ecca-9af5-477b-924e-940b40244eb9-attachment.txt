@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_CRUD_new.py:24 Start:Create a new user Test
+[32mINFO    [0m root:test_CRUD_new.py:32 Passed:Create a new user Test

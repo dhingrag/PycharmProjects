@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_end2en.py:29 Passed:Delete the user Test

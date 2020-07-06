@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_CRUD.py:13 Start:GET ALl USERS Test
+[32mINFO    [0m root:test_CRUD.py:19 Passed:GET ALl USERS Test

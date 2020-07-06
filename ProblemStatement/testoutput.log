@@ -1,0 +1,122 @@
+2020-07-05 17:16:04,537 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:16:04,625 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:16:04,627 - INFO :  Start:Create a new user Test
+2020-07-05 17:16:05,088 - INFO :  Passed:Create a new user Test
+2020-07-05 17:16:05,090 - INFO :  Start:Update the user Test
+2020-07-05 17:16:05,396 - INFO :  Passed:Update the user Test
+2020-07-05 17:16:05,398 - INFO :  Start:Delete the user Test
+2020-07-05 17:16:05,825 - INFO :  Passed:Delete the user Test
+2020-07-05 17:17:43,803 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:17:43,891 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:17:43,893 - INFO :  Start:Create a new user Test
+2020-07-05 17:17:44,367 - INFO :  Passed:Create a new user Test
+2020-07-05 17:17:44,369 - INFO :  Start:Update the user Test
+2020-07-05 17:17:44,784 - INFO :  Passed:Update the user Test
+2020-07-05 17:17:44,786 - INFO :  Start:Delete the user Test
+2020-07-05 17:17:45,259 - INFO :  Passed:Delete the user Test
+2020-07-05 17:21:16,722 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:21:16,825 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:21:16,827 - INFO :  Start:Create a new user Test
+2020-07-05 17:21:17,272 - INFO :  Passed:Create a new user Test
+2020-07-05 17:21:17,274 - INFO :  Start:Update the user Test
+2020-07-05 17:21:17,706 - INFO :  Passed:Update the user Test
+2020-07-05 17:21:17,708 - INFO :  Start:Delete the user Test
+2020-07-05 17:21:18,213 - INFO :  Passed:Delete the user Test
+2020-07-05 17:23:17,100 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:23:17,210 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:23:17,211 - INFO :  Start:Create a new user Test
+2020-07-05 17:23:17,672 - INFO :  Passed:Create a new user Test
+2020-07-05 17:23:17,674 - INFO :  Start:Update the user Test
+2020-07-05 17:23:18,113 - INFO :  Passed:Update the user Test
+2020-07-05 17:23:18,115 - INFO :  Start:Delete the user Test
+2020-07-05 17:23:18,593 - INFO :  Passed:Delete the user Test
+2020-07-05 17:28:35,817 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:28:35,997 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:28:35,998 - INFO :  Start:Create a new user Test
+2020-07-05 17:28:36,425 - INFO :  Passed:Create a new user Test
+2020-07-05 17:28:36,427 - INFO :  Start:Update the user Test
+2020-07-05 17:28:36,860 - INFO :  Passed:Update the user Test
+2020-07-05 17:28:36,862 - INFO :  Start:Delete the user Test
+2020-07-05 17:28:37,328 - INFO :  Passed:Delete the user Test
+2020-07-05 17:34:48,820 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:34:48,953 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:34:48,956 - INFO :  Start:Create a new user Test
+2020-07-05 17:34:49,512 - INFO :  Passed:Create a new user Test
+2020-07-05 17:34:49,514 - INFO :  Start:Update the user Test
+2020-07-05 17:34:49,932 - INFO :  Passed:Update the user Test
+2020-07-05 17:34:49,934 - INFO :  Start:Delete the user Test
+2020-07-05 17:34:50,366 - INFO :  Passed:Delete the user Test
+2020-07-05 17:42:56,530 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:42:56,616 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:42:56,617 - INFO :  Start:Create a new user Test
+2020-07-05 17:42:57,028 - INFO :  Passed:Create a new user Test
+2020-07-05 17:42:57,030 - INFO :  Start:Update the user Test
+2020-07-05 17:42:57,466 - INFO :  Passed:Update the user Test
+2020-07-05 17:42:57,467 - INFO :  Start:Delete the user Test
+2020-07-05 17:42:57,895 - INFO :  Passed:Delete the user Test
+2020-07-05 17:56:12,490 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:56:12,672 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:56:12,673 - INFO :  Start:Create a new user Test
+2020-07-05 17:56:13,197 - INFO :  Passed:Create a new user Test
+2020-07-05 17:56:13,199 - INFO :  Start:Update the user Test
+2020-07-05 17:56:13,607 - INFO :  Passed:Update the user Test
+2020-07-05 17:56:13,609 - INFO :  Start:Delete the user Test
+2020-07-05 17:56:14,163 - INFO :  Passed:Delete the user Test
+2020-07-05 17:56:14,166 - INFO :  Start:Get All users Test
+2020-07-05 17:56:14,295 - INFO :  Passed:Get All users Test
+2020-07-05 17:56:14,297 - INFO :  Start:Create a new user Test
+2020-07-05 17:56:14,866 - INFO :  Passed:Create a new user Test
+2020-07-05 17:56:14,868 - INFO :  Start:Update the user Test
+2020-07-05 17:56:15,357 - INFO :  Passed:Update the user Test
+2020-07-05 17:56:15,359 - INFO :  Start:Delete the user Test
+2020-07-05 17:56:15,874 - INFO :  Passed:Delete the user Test
+2020-07-05 17:56:15,876 - INFO :  Start:Get All users Test
+2020-07-05 17:56:15,986 - INFO :  Passed:Get All users Test
+2020-07-05 17:56:15,988 - INFO :  Start:Update the user Test
+2020-07-05 17:56:16,483 - INFO :  Passed:Update the user Test
+2020-07-05 17:56:16,485 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:56:16,575 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:56:16,578 - INFO :  Start:Create a new user Test
+2020-07-05 17:56:17,089 - INFO :  Passed:Create a new user Test
+2020-07-05 17:56:17,091 - INFO :  Start:Update the user Test
+2020-07-05 17:56:17,604 - INFO :  Passed:Update the user Test
+2020-07-05 17:56:17,606 - INFO :  Start:Delete the user Test
+2020-07-05 17:56:18,110 - INFO :  Passed:Delete the user Test
+2020-07-05 17:56:18,736 - INFO :  Passed:Delete the user Test
+2020-07-05 17:56:18,738 - INFO :  Start:Successful Login Test
+2020-07-05 17:56:19,246 - INFO :  Passed:Login Test
+2020-07-05 17:56:19,248 - INFO :  Start:UnSuccessful Login Test
+2020-07-05 17:56:19,767 - INFO :  Passed:UnSuccessful Login Test
+2020-07-05 17:57:16,361 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:57:16,468 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:57:16,472 - INFO :  Start:Create a new user Test
+2020-07-05 17:57:16,994 - INFO :  Passed:Create a new user Test
+2020-07-05 17:57:16,997 - INFO :  Start:Update the user Test
+2020-07-05 17:57:17,509 - INFO :  Passed:Update the user Test
+2020-07-05 17:57:17,513 - INFO :  Start:Delete the user Test
+2020-07-05 17:57:18,023 - INFO :  Passed:Delete the user Test
+2020-07-05 17:57:18,027 - INFO :  Start:Get All users Test
+2020-07-05 17:57:18,161 - INFO :  Passed:Get All users Test
+2020-07-05 17:57:18,165 - INFO :  Start:Create a new user Test
+2020-07-05 17:57:18,645 - INFO :  Passed:Create a new user Test
+2020-07-05 17:57:18,649 - INFO :  Start:Update the user Test
+2020-07-05 17:57:19,117 - INFO :  Passed:Update the user Test
+2020-07-05 17:57:19,120 - INFO :  Start:Delete the user Test
+2020-07-05 17:57:19,620 - INFO :  Passed:Delete the user Test
+2020-07-05 17:57:19,624 - INFO :  Start:Get All users Test
+2020-07-05 17:57:19,726 - INFO :  Passed:Get All users Test
+2020-07-05 17:57:19,729 - INFO :  Start:Update the user Test
+2020-07-05 17:57:20,271 - INFO :  Passed:Update the user Test
+2020-07-05 17:57:20,276 - INFO :  Start:GET ALl USERS Test
+2020-07-05 17:57:20,382 - INFO :  Passed:GET ALl USERS Test
+2020-07-05 17:57:20,385 - INFO :  Start:Create a new user Test
+2020-07-05 17:57:20,897 - INFO :  Passed:Create a new user Test
+2020-07-05 17:57:20,901 - INFO :  Start:Update the user Test
+2020-07-05 17:57:21,404 - INFO :  Passed:Update the user Test
+2020-07-05 17:57:21,407 - INFO :  Start:Delete the user Test
+2020-07-05 17:57:21,915 - INFO :  Passed:Delete the user Test
+2020-07-05 17:57:22,537 - INFO :  Passed:Delete the user Test
+2020-07-05 17:57:22,540 - INFO :  Start:Successful Login Test
+2020-07-05 17:57:23,037 - INFO :  Passed:Login Test
+2020-07-05 17:57:23,041 - INFO :  Start:UnSuccessful Login Test
+2020-07-05 17:57:23,549 - INFO :  Passed:UnSuccessful Login Test

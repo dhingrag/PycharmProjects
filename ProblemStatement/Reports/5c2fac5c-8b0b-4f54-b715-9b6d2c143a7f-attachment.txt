@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:12 Start:Successful Login Test
+[32mINFO    [0m root:test_login.py:21 Passed:Login Test
